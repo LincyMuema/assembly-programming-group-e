@@ -1,8 +1,8 @@
 ; JNS → Jump if Not Sign
 
 section .data
-    msg_neg db "Negative (SF=1)",10,0
-    msg_nonneg db "Non-Negative (SF=0)",10,0
+    msg_neg db "Lincy Muema 158442",10,0
+    msg_nonneg db "Lincy Ndanu 158442",10,0
 
 section .text
     global _start
